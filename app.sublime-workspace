@@ -1,0 +1,699 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cop",
+				"copyGeneralFiles"
+			],
+			[
+				"de",
+				"deleteDistFolder"
+			],
+			[
+				"op",
+				"optimizeImages"
+			],
+			[
+				"re",
+				"replaceSvgWithPng\t(sprites.js)"
+			],
+			[
+				"ral",
+				"replaceSvgWithPng\t(sprites.js)"
+			],
+			[
+				"sr",
+				"sprite"
+			],
+			[
+				"css",
+				"css\t(index.html)"
+			],
+			[
+				"sty",
+				"styles\t(index.html)"
+			],
+			[
+				"cre",
+				"createSprite"
+			],
+			[
+				"spr",
+				"sprites"
+			],
+			[
+				"ref",
+				"refreshWaypoints"
+			],
+			[
+				"ope",
+				"open-modal"
+			],
+			[
+				"ke",
+				"keyPressHandler"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"modal",
+				"modal--is-visible"
+			],
+			[
+				"close",
+				"closeModal"
+			],
+			[
+				"clos",
+				"closeModalButton"
+			],
+			[
+				"open",
+				"openModal"
+			],
+			[
+				"opan",
+				"open-modal\t(index.html)"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"transfo",
+				"transform-origin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tra",
+				"translate()"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"a",
+				"addSmoothScrolling"
+			],
+			[
+				"head",
+				"headerlinks"
+			],
+			[
+				"hea",
+				"headerlinks"
+			],
+			[
+				"create",
+				"createPageSectionWaypoints"
+			],
+			[
+				"curr",
+				"currentPageSection"
+			],
+			[
+				"page",
+				"page-section\t(index.html)"
+			],
+			[
+				"fea",
+				"features-link"
+			],
+			[
+				"our",
+				"our-beginning-link"
+			],
+			[
+				"t",
+				"transform"
+			],
+			[
+				"site-he",
+				"site-header--dark\t(StickyHeader.js)"
+			],
+			[
+				"header",
+				"headerTriggerElement"
+			],
+			[
+				"large",
+				"large-hero__title\t(index.html)"
+			],
+			[
+				"Wa",
+				"Waypoint\t(RevealOnScroll.js)"
+			],
+			[
+				"mode",
+				"modules"
+			],
+			[
+				"off",
+				"offsetPercentage"
+			],
+			[
+				"cr",
+				"createWaypoints"
+			],
+			[
+				"reveal",
+				"RevealOnScroll"
+			],
+			[
+				"j",
+				"jquery\t(MobileMenu.js)"
+			],
+			[
+				"Re",
+				"RevealOnScroll"
+			],
+			[
+				"ex",
+				"export\t(MobileMenu.js)"
+			],
+			[
+				"trn",
+				"transform"
+			],
+			[
+				"menu",
+				"menuIcon"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"mi",
+				"mixin"
+			],
+			[
+				"men",
+				"menuContent"
+			],
+			[
+				"site",
+				"site-header__menu-content\t(index.html)"
+			],
+			[
+				"to",
+				"toggleTheMenu"
+			],
+			[
+				"scrip",
+				"scripts\t(index.html)"
+			],
+			[
+				"scr",
+				"scriptsRefresh"
+			],
+			[
+				"scrp",
+				"scripts\t(index.html)"
+			],
+			[
+				"A",
+				"App.js"
+			],
+			[
+				"favo",
+				"favoriteColor"
+			],
+			[
+				"fav",
+				"favColor"
+			],
+			[
+				"fa",
+				"favoriteColor"
+			],
+			[
+				"joh",
+				"johFavColor"
+			],
+			[
+				"john",
+				"JohnName"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"alt",
+				"alt"
+			],
+			[
+				"se",
+				"sizes"
+			],
+			[
+				"al",
+				"allow"
+			],
+			[
+				"test",
+				"testimonial"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"row",
+				"row--gutters"
+			],
+			[
+				"sec",
+				"section-title"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"fe",
+				"feature-item"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"headline",
+				"headline--b-margin-small"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pag",
+				"page-section"
+			],
+			[
+				"larg",
+				"large-hero__title"
+			],
+			[
+				"mai",
+				"mainBlue\t(_variables.css)"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"med",
+				"@media\t@media ${1:screen} {\n\t${0}\n}"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"tex",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 53,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "app.js"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: pack",
+				"Package Control: Install Package"
+			],
+			[
+				"instak",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Install Package Control"
+			],
+			[
+				"",
+				"Install Package Control"
+			]
+		],
+		"width": 411.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/styles/modules/_page-section.css",
+		"/media/maestro/xampp/htdocs/travelsite/gulp/templates/sprite.css",
+		"/media/maestro/xampp/htdocs/travelsite/app/index.html",
+		"/media/maestro/xampp/htdocs/travelsite/gulp/tasks/build.js",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/styles/modules/_site-header.css",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/scripts/App.js",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/styles/modules/_row.css",
+		"/media/maestro/xampp/htdocs/travelsite/gulp/tasks/sprites.js",
+		"/home/maestro/.cache/.fr-CCMtLQ/54-flexbox-fallback/gulp/tasks/sprites.js",
+		"/media/maestro/xampp/htdocs/travelsite/gulpfile.js",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/styles/modules/_btn.css",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/scripts/Vendor.js",
+		"/media/maestro/xampp/htdocs/travelsite/gulp/tasks/modernizr.js",
+		"/media/maestro/xampp/htdocs/travelsite/gulp/tasks/scripts.js",
+		"/media/maestro/xampp/htdocs/travelsite/app/temp/scripts/Vendor.js",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/scripts/modules/StickyHeader.js",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/styles/modules/_reveal-item.css",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/scripts/modules/Modal.js",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/styles/modules/_modal.css",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/styles/modules/_section-title.css",
+		"/media/maestro/xampp/htdocs/travelsite/webpack.config.js",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/styles/modules/_social-icons.css",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/styles/styles.css",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/styles/modules/_wrapper.css",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/styles/modules/_primary-nav.css",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/scripts/modules/RevealOnScroll.js",
+		"/media/maestro/xampp/htdocs/travelsite/example/index.html",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/scripts/modules/MobileMenu.js",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/scripts/modules/Person.js",
+		"/media/maestro/xampp/htdocs/travelsite/gulp/tasks/watch.js",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/styles/modules/_sprite.css",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/scripts/app.js",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/styles/modules/_large-hero.css",
+		"/media/maestro/xampp/htdocs/travelsite/gulp/tasks/styles.js",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/styles/modules/_site-footer.css",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/styles/modules/_testimonial.css",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/styles/base/_mixins.css",
+		"/media/maestro/Course Videos/Git/11 Building Testimonial Section/attached_files/029 Styling Testimonials Part 2/28-testimonials2-end/28-testimonials-part2/app/assets/styles/modules/_row.css",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/styles/modules/_feature-item.css",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/styles/modules/_generic-content-container.css",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/styles/modules/_headline.css",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/styles/base/_variables.css",
+		"/media/maestro/xampp/htdocs/travelsite/app/assets/styles/base/_global.css",
+		"/home/maestro/.config/sublime-text-3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/home/maestro/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/maestro/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/media/maestro/xampp/htdocs/travelsite/app/temp/styles/styles.css",
+		"/home/maestro/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lazyload",
+			"60",
+			"beginning"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 53,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"auto_name": "app.js",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
